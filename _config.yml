@@ -28,7 +28,8 @@ url: "https://kranthik13.github.io" # the base hostname & protocol for your site
 github_username:  kranthik13
 
 # Build settings
-theme: minima
+# Removed minima as it is now a Regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
 
