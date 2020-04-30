@@ -27,6 +27,14 @@ url: "https://kranthik13.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  kranthik13
 
+# Fields that are used by minima but not by default.
+author : Kranthi Kiran
+linkedin_username : kranthi-kiran13
+# instagram_username : kranthi._.k
+# 
+copyright : "Wandering Minds"
+
+
 # Build settings
 # Removed minima as it is now a Regular theme.
 # theme: minima
