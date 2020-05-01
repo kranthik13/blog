@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wandering Minds
+title: Kranthi Kiran
 email: gkranthi.kiran.99@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my first blogging site.
+  trying to blog my wandering mind. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://kranthik13.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -32,7 +32,7 @@ author : Kranthi Kiran
 linkedin_username : kranthi-kiran13
 # instagram_username : kranthi._.k
 # 
-copyright : "Wandering Minds"
+# copyright : "Kranthi Kiran"
 
 
 # Build settings
